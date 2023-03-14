@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "533460530504",
+    "project_id": "wefix4utoday",
+    "storage_bucket": "wefix4utoday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533460530504:android:746d9fccf3b2c65cdb6f7d",
+        "android_client_info": {
+          "package_name": "com.wefix4utoday.wefix4utoday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533460530504-ie838po788l9h9s5b5ugl6hktlstgs6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wefix4utoday.wefix4utoday",
+            "certificate_hash": "a39d1007022be8286d48682b196a61dd204d2172"
+          }
+        },
+        {
+          "client_id": "533460530504-pg21j4uuoiucnlf9p11oto1khp6qlfqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wefix4utoday.wefix4utoday",
+            "certificate_hash": "bfd6ab65a1be0c8b16fdcb8a7b7cbd5b34fad3f1"
+          }
+        },
+        {
+          "client_id": "533460530504-a0vmces85pb5p2c3nckb3vlhsm7vaev3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNwy15s32L7KUVJklKm-TBEvc4uAaLgs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533460530504-a0vmces85pb5p2c3nckb3vlhsm7vaev3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

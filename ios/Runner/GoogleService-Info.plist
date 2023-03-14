@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>533460530504-ef2f5s88oo7hc03i2daq9a3pu2mp0792.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.533460530504-ef2f5s88oo7hc03i2daq9a3pu2mp0792</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>533460530504-evogd407opthfc5qirkpkh2ssgcs7rr4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAX-R1FVyvJWA4eK-NObtFpWbrQ0r-UhWU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>533460530504</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wefix4utoday.wefix4utoday</string>
+	<key>PROJECT_ID</key>
+	<string>wefix4utoday</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wefix4utoday.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:533460530504:ios:53256acf5f8a853bdb6f7d</string>
+</dict>
+</plist>
